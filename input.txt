@@ -1,0 +1,11 @@
+a = 4
+b = 3
+c = 5
+d = 25
+e = 52
+b = a - b * 3
+f = a / 3 * b + 21 - a * 2 + b * c
+g = f * 5 + a / 2 * c + 6 - 7
+
+print f
+print g
